@@ -8,7 +8,7 @@
 
 
 - 👋 Hi, I’m @kiister
-- :+1:  meu email de estudande é kauane.kuster@escola.pr.gov.br
+- :+1:  meu email de contato é (email) (kauane.kuster@escola.pr.gov.br)
 -  👀 eu estou interresado em aprender a programar novas línguagens.
 - 🌱 eu estou aprendendo a programar recentemente a línguagem de javaScript e Scratch
 
